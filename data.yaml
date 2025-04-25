@@ -1,0 +1,17 @@
+names:
+  0: 0_Zavod
+  1: 0_position
+  2: 0_zakaz
+  3: 1_Marka
+  4: 2_God
+  5: 3_Plavka
+  6: 4_Partiya
+  7: 5_Nomer
+  8: 6_Razmer
+  9: Yglerod
+  10: stoikost
+nc: 11
+path: D:\Segmentation_Project\Datasets\Obchaya Razmetka YOLOv8
+test: test/images
+train: train/images
+val: validation/images
