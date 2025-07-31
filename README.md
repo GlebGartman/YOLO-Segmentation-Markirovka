@@ -31,7 +31,7 @@
 - `5_Nomer` — номер листа  
 - `6_Razmer` — размеры листа  
 
-📎 [Изображения поставщика 1 (Google Drive)](https://drive.google.com/file/d/1qVrk_HTy1LKkhCtCmF3Pzx7zxmfB_DTg/view?usp=sharing)
+![Изображение поставщика 1](https://drive.google.com/uc?export=view&id=1qVrk_HTy1LKkhCtCmF3Pzx7zxmfB_DTg)
 
 Для изображений маркировки продукции предприятия **"2"** были заданы следующие классы:
 - `0_position` — позиция заказа  
@@ -44,7 +44,7 @@
 - `Yglerod` — углеродный эквивалент  
 - `stoikost` — параметр стойкости при сварке  
 
-📎 [Изображения поставщика 2 (Google Drive)](https://drive.google.com/file/d/1Z634fmgwNvXJX9jcAMY2QhqUoUUV_SpP/view?usp=sharing)
+![Изображение поставщика 2](https://drive.google.com/uc?export=view&id=1Z634fmgwNvXJX9jcAMY2QhqUoUUV_SpP)
 
 </details>
 
